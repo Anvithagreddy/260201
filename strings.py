@@ -16,3 +16,14 @@ text""")  # """ is used for multi line
 
 print("\nFOR TAB")
 print("one\ttwo\tthree")
+
+# Concatenation which can be done on any two strings
+print("\nCONCATENATION")
+print("spam" + 'eggs')
+print("2" + "2")  # not allowed to concatenate string and a number
+
+# string operations
+# multiplying a string by an integer, produces a repeated version of thr original string
+print("\nSTRING OPERATIONS")
+print("spam" * 3)
+print(4 * '2')
