@@ -13,7 +13,7 @@ print("egg" in words)
 print("tomato" in words)
 
 print("\n\n\nANOTHER EXAMPLE")
-nums = [1,2,3]
+nums = [1,2,3,5]
 print(not 4 in nums)
 print(4 not in nums)
 print(not 3 in nums)
