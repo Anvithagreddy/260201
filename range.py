@@ -3,3 +3,9 @@
 print("RANGE")
 numbers = list(range(10))
 print(numbers)
+
+# range with two arguments
+print("\n\nRANGE WITH TWO ARGS")
+numbers = list(range(3,8))
+print(numbers)
+# it prints from 3 to 7
