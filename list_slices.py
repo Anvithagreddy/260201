@@ -9,3 +9,12 @@ print(squares[0:1])
 print("\n\nomitting first and second number")
 print(squares[:7])
 print(squares[7:])
+
+print("\n\nwith third slice")
+print(squares[::2])
+print(squares[2:8:3])
+
+# when negative values are used for the first and second values in a slice,
+# they count from the end of the list
+print("\n\nWITH NEGATIVE VALUES")
+print(squares[1:-1])
