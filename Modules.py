@@ -6,6 +6,6 @@ for i in range(5):
     value = random.randint(1,6)
     print(value)
 
-print("\n\n\nmath")
+print("\n\nmath")
 from math import pi
 print(pi)
